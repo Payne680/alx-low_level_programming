@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
-  3   *main - Entry point
-  4   *Description "Print alpahbets in reverse"
-  5   *Return: Will be 0 (success)
-  6   */
+   *main - Entry point
+   *Description "Print alpahbets in reverse"
+   *Return: Will be 0 (success)
+   */
 int main(void)
 {
 	int n = 122;
