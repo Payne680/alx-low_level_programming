@@ -4,7 +4,7 @@
     *Description: "Prints the alphabets in lowercase"
      *Return: Will be 0 (success)
   */
-void print_alphabets(void)
+void print_alphabet(void)
 {
 	int i;
 
