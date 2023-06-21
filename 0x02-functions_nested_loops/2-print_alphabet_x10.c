@@ -1,10 +1,10 @@
 #include "main.h"
 /**
-    *print_alphabet_10x - prints the alpahbet 10 times
+    *print_alphabet_x10 - prints the alpahbet 10 times
     *
      *Return: Will be 0 (success)
   */
-void print_alphabet_10x(void)
+void print_alphabet_x10(void)
 {
 	int i;
 	int j;
