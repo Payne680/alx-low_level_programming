@@ -1,1 +1,1 @@
-# alx-low_level_programming projects folder
+# alx-low_level_programming projects completed
